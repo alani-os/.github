@@ -1,6 +1,5 @@
 ## `CONTRIBUTING.md`
 
-```markdown
 # Contributing to Alani
 
 Thank you for your interest in contributing to Alani, the cognitive microkernel operating system [1].

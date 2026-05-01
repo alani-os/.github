@@ -2,15 +2,7 @@
 
 ## `README.md`
 
-<div align="center">
-  <img src="Alani-wide.png" alt="Alani Logo" width="200" />
-  
-  # Alani .github
-  
-  **Organization Profile & Community Health Files**
-  
-  [Website](https://alani-os.github.com) • [Documentation](https://alani-os.github.io/docs/) • [Discussions](https://github.com/orgs/alani-os/discussions)
-</div>
+![Alani Logo](Alani-wide.png)     # Alani .github     \*\*Organization Profile & Community Health Files\*\*     \[Website\](https://alani-os.github.com) • \[Documentation\](https://alani-os.github.io/docs/) • \[Discussions\](https://github.com/orgs/alani-os/discussions)
 
 ---
 

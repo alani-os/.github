@@ -2,7 +2,6 @@
 
 ## `README.md`
 
-```markdown
 <div align="center">
   <img src="Alani-wide.png" alt="Alani Logo" width="200" />
   

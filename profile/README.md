@@ -4,32 +4,12 @@
 
 ## `.github/profile/README.md`
 
-```markdown
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alani-os/.github/main/Alani-wide.png" alt="Alani Logo" width="180" />
-  
-  <h1>Alani</h1>
-  
-  <p><strong>Cognitive Microkernel Operating System</strong></p>
-  
-  <p>
-    <a href="https://github.com/alani-os/alani-kernel/actions/workflows/ci.yml">
-      <img src="https://img.shields.io/github/actions/workflow/status/alani/alani/ci.yml?label=CI&logo=github" alt="CI Status" />
-    </a>
-    <a href="https://github.com/alani-os/alani-kernel/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/alani/alani?color=blue" alt="License" />
-    </a>
-    <a href="https://github.com/alani-os/alani-kernel/stargazers">
-      <img src="https://img.shields.io/github/stars/alani/alani?style=flat&logo=github" alt="GitHub Stars" />
-    </a>
-  </p>
-  
-  <p>
-    <a href="https://alani-os.github.io">🌐 Website</a> •
-    <a href="https://alani-os.github.io/docs/">📚 Documentation</a> •
-    <a href="https://github.com/orgs/alani-os/discussions">💬 Discussions</a>
-  </p>
-</div>
+![Alani Logo](https://raw.githubusercontent.com/alani-os/.github/main/Alani-wide.png)
+Alani
+=====
+**Cognitive Microkernel Operating System**
+[![CI Status](https://img.shields.io/github/actions/workflow/status/alani/alani/ci.yml?label=CI&logo=github)](https://github.com/alani-os/alani-kernel/actions/workflows/ci.yml)               [![License](https://img.shields.io/github/license/alani/alani?color=blue)](https://github.com/alani-os/alani-kernel/blob/main/LICENSE)               [![GitHub Stars](https://img.shields.io/github/stars/alani/alani?style=flat&logo=github)](https://github.com/alani-os/alani-kernel/stargazers)
+[🌐 Website](https://alani-os.github.io) •     [📚 Documentation](https://alani-os.github.io/docs/) •     [💬 Discussions](https://github.com/orgs/alani-os/discussions)
 
 ---
 

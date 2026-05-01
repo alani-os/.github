@@ -1,0 +1,14 @@
+## `.github/ISSUE_TEMPLATE/config.yml`
+
+```yaml
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/orgs/alani-os/discussions
+    about: Ask questions and discuss with the community
+  - name: 📚 Documentation
+    url: https://alani-os.github.io/docs
+    about: Check documentation for answers
+```
+
+---
